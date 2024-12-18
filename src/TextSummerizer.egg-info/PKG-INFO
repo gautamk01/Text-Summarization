@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: TextSummerizer
+Version: 0.0.0
+Summary: A small python Package for NLp app
+Home-page: https://github.com/Gautamk01/Text-Summarization
+Author: Gautamk01
+Author-email: gautamkrishna.mooppil@gmail.com
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Text-Summarization
+ implement an end to end NLP project with deployment using github action Text summarization is the process of condensing a longer piece of text, such as an article, document, or paragraph, into a shorter and more concise version while preserving its key information and meaning. 
